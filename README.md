@@ -8,7 +8,7 @@ This repo contains all the experiment images used for style transfer.
 
 ## Content images
 
-We select 50 scene images as content images
+We select 20 scene images as content images
 
 ### Image source
 
