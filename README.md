@@ -20,7 +20,10 @@ There are 27 styles of images in [wikiart](https://hugging1face.co/datasets/hugg
 
 - Abstract_Expressionism
 - Baroque
-- Cubism
-- Fauvism
-- Pointillism
-- Ukiyo_e
+
+|Style|introduction|
+|-|-|
+|Cubism|the subjects are analysed, broken up, and reassembled in an abstract form—instead of depicting objects from a single perspective, the artist depicts the subject from multiple perspectives to represent the subject in a greater context|
+|Fauvism|works emphasized painterly qualities and strong colour over the representational or realistic values|
+|Pointillism|a technique of painting in which small, distinct dots of color are applied in patterns to form an image|
+|Ukiyo_e|Its artists produced woodblock prints and paintings of such subjects as female beauties; kabuki actors and sumo wrestlers; scenes from history and folk tales; travel scenes and landscapes; flora and fauna; and erotica|
